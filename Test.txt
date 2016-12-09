@@ -1,0 +1,10 @@
+git init 
+git commit -am "Message here"
+git push --online stellen
+
+
+git init -- ordner initialisieren um .......
+git commit -am "Message here"
+
+== 1. git add .
+   2. git commit -m "Message"
